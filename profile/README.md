@@ -1,4 +1,4 @@
-![Syntactic](../Screenshot 2021-11-10 165551.png)
+![Syntactic](../logo.png)
 
 ## Syntactic Research
 
