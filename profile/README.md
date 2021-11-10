@@ -1,3 +1,5 @@
+![Syntactic](../Screenshot 2021-11-10 165551.png)
+
 ## Syntactic Research
 
 - We are a development team focused on building scalable lexers & parsers for hundreds of new programming languages.
