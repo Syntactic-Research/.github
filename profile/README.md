@@ -1,12 +1,7 @@
-## Hi there 👋
+## Syntactic Research
 
-<!--
+- We are a development team focused on building scalable lexers & parsers for hundreds of new programming languages.
 
-**Here are some ideas to get you started:**
+The idea of having a custom programming language is a celebrated idea here at Syntactic, and you can make it happen.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Email Kai D. Gonzalez @ `gkai70264@gmail.com` to submit your state machines & lexers and maybe we'll consider putting it up on our page!
